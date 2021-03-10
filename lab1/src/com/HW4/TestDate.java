@@ -1,2 +1,4 @@
-package com.HW4;public class TestDate {
+package com.HW4;
+
+public class TestDate {
 }
