@@ -28,7 +28,6 @@ public class OurArrayList {
         }
     public static void removeDuplicates(ArrayList<String> arr){
         String elemnt;
-        int count =0;
         for (int i = 0; i <arr.size() ; i++) {
             elemnt = arr.get(i);
             for (int j = i; j <arr.size() ; j++) {
