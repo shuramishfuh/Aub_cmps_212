@@ -1,3 +1,6 @@
 # Default ignored files
 /shelf/
+../.idea
 /workspace.xml
+ ../IR_LUcene/.idea/
+ ../IR_LUcene/IR_LUcene.iml

@@ -11,7 +11,7 @@ import java.util.*;
     the game is over. */
 public class AssassinMain {
     /** input file name from which to read data */
-    public static final String INPUT_FILENAME = "names.txt";
+    public static final String INPUT_FILENAME = "C:\\Users\\Agamatimtim\\IdeaProjects\\lab1\\src\\com\\HW7\\names.txt";
     
     /** true for different results every run; false for predictable results */
     public static final boolean RANDOM = false;
